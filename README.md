@@ -64,7 +64,6 @@ hotel/
 
 ## 👨‍🏫 Objectif pédagogique
 Ce projet a pour but de mettre en pratique :
-- la modélisation UML
 - la séparation logique métier / interface
 - la gestion d’un système réel (hôtel)
 
